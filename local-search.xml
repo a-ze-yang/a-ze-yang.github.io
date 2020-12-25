@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>小文字</title>
+    <link href="/2020/12/25/%E5%B0%8F%E6%96%87%E5%AD%97/"/>
+    <url>/2020/12/25/%E5%B0%8F%E6%96%87%E5%AD%97/</url>
+    
+    <content type="html"><![CDATA[<h1 id="这是一级标题"><a href="#这是一级标题" class="headerlink" title="这是一级标题"></a>这是一级标题</h1><p>[toc]</p><h2 id="这是二级"><a href="#这是二级" class="headerlink" title="这是二级"></a>这是二级</h2><ul><li><p>这是列表</p><ul><li><p>二级列表 -减号</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs html">这是代码块<br></code></pre></td></tr></table></figure></li></ul></li></ul><p><em>下划线这是</em></p><p><a href="www.baidu.com">这是链接</a></p><p>deploy:<br>  type: git //这是git<br>  repo: <a href="mailto:&#x67;&#x69;&#x74;&#64;&#x67;&#x69;&#x74;&#104;&#x75;&#98;&#x2e;&#x63;&#x6f;&#x6d;">&#x67;&#x69;&#x74;&#64;&#x67;&#x69;&#x74;&#104;&#x75;&#98;&#x2e;&#x63;&#x6f;&#x6d;</a>:a-ze-yang/a-ze-yang.github.io.git //这是github仓库的地址<br>  branch: master //这是分支名<br>下次要是想要部署到GITHUB上面</p><ul><li>hexo clean  //清除一下缓存</li><li>hexo g // 生成新的静态文件</li><li>hexo s // 这是在本地运行的命令</li><li>hexo d // 这是把生成的静态文件推送到github.io上去了</li></ul>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2020/12/25/hello-world/"/>
     <url>/2020/12/25/hello-world/</url>
